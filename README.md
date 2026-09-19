@@ -37,6 +37,3 @@ Key endpoints
 - POST /upload
 - POST /ask
 
-Notes
-- Put PDFs in data/ to ingest them, or upload via /upload.
-- The local vector store lives in storage/qdrant/.
