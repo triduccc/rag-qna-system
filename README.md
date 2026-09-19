@@ -1,4 +1,4 @@
-# Simple RAG System 
+# Retrieval-Augmented Document Q&A System 
 
 Overview
 - Ingests PDFs from the data/ folder or via the API upload endpoint.
